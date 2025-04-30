@@ -80,4 +80,5 @@ Feedback welcome through pull requests or issues.
 📜 License
 MIT License
 Copyright (c) 2025
- Dominic Kimani
+Dominic Kimani
+https://vercel.com/dominic-kimanis-projects-b332d366/music-site
